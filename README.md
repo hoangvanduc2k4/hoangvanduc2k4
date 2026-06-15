@@ -3,7 +3,8 @@
 - I completed a Software Engineering internship at FPT Software (Fsoft), where I performed manual testing, debugged code on backend systems (.NET, Spring Boot) and frontend (Angular), fixed minor bugs, and managed issues using Jira.<br><br>
 - I served as Team Leader for two academic projects: SmartRecruit Platform (.NET 8 Web API, Razor Pages, EF Core, SQL Server, Gemini API, Hangfire) and Online Learning Platform (ASP.NET Core MVC, Identity, EF Core, VNPay, TCP Sockets). My responsibilities included gathering requirements, designing the database, implementing backend logic, and integrating third-party services.<br><br>
 - I am seeking an internship or fresher position as a .NET Backend Developer, with a long-term goal to grow in software development, particularly in finance, banking, or enterprise resource planning (ERP) systems.<br><br>
-- Feel free to ask me about: C#, ASP.NET Core, Entity Framework Core, SQL Server, Git/GitHub, internship experiences, or working on team projects.<br><br>- Fun fact: I concurrently acted as backend developer, BA (drawing diagrams, writing documentation), and manual tester for both of my major academic projects.
+- Feel free to ask me about: C#, ASP.NET Core, Entity Framework Core, SQL Server, Git/GitHub, internship experiences, or working on team projects.<br><br>
+- Fun fact: I concurrently acted as backend developer, BA (drawing diagrams, writing documentation), and manual tester for both of my major academic projects.
 
 
 ## 🌐 Socials:
